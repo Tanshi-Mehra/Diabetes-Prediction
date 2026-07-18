@@ -1,34 +1,33 @@
-# 🩺 Diabetes Prediction using Machine Learning
+#  Diabetes Prediction using Machine Learning
 
 A Machine Learning web application that predicts the likelihood of diabetes in adult female patients based on clinical health parameters. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, providing an interactive interface for real-time predictions.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 **Live Application:** https://diabetes-prediction-4nvv799pabc2xjzdfncuce.streamlit.app
+ **Live Application:** https://diabetes-prediction-4nvv799pabc2xjzdfncuce.streamlit.app
 
-> Replace the above link with your deployed Streamlit application URL.
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 This project uses a **Support Vector Machine (SVM)** model trained on the **Pima Indians Diabetes Dataset** to predict whether a patient is likely to have diabetes. The trained model is integrated into a **Streamlit** web application, allowing users to enter medical details and receive instant predictions.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 Machine Learning-based diabetes prediction
-- 🌐 Interactive Streamlit web interface
-- ⚡ Real-time prediction
-- 📋 Easy-to-use input form
-- 🚀 Fast and lightweight application
+-  Machine Learning-based diabetes prediction
+-  Interactive Streamlit web interface
+-  Real-time prediction
+-  Easy-to-use input form
+-  Fast and lightweight application
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -42,7 +41,7 @@ This project uses a **Support Vector Machine (SVM)** model trained on the **Pima
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Diabetes-Prediction/
@@ -56,7 +55,7 @@ Diabetes-Prediction/
 
 ---
 
-## 📊 Input Parameters
+##  Input Parameters
 
 The model predicts diabetes using the following medical parameters:
 
@@ -71,7 +70,7 @@ The model predicts diabetes using the following medical parameters:
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 - Data Collection
 - Data Preprocessing
@@ -85,7 +84,7 @@ The model predicts diabetes using the following medical parameters:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -113,13 +112,13 @@ streamlit run app.py
 
 ---
 
-## 📈 Model Used
+##  Model Used
 
 - **Support Vector Machine (SVM)**
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 - Streamlit
@@ -135,7 +134,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠️ Dataset Information
+##  Dataset Information
 
 This project uses the **Pima Indians Diabetes Dataset**, which contains medical records of **adult female patients (21 years and older) of Pima Indian heritage**.
 
@@ -143,7 +142,7 @@ Since the dataset includes the **Pregnancies** feature, the trained model is int
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Improve the user interface with custom CSS
 - Display prediction confidence score
@@ -153,7 +152,7 @@ Since the dataset includes the **Pregnancies** feature, the trained model is int
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -164,7 +163,7 @@ Contributions are welcome!
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Tanshi Mehra**
 
